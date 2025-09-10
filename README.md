@@ -1,13 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sunny (actually this is nick name and I love sun)
 =========================================================================================================================================================================
 
-Senior Software engineer(Gen AI and Web application)
+Electronic & Robotic engineer(Specialize RF)
 ----------------------------------------------------
 
-Hello, world, I'm Sunny and I'm a senior AI and full stack developer! Originally a software engineer, I started learning AI and ML 5 years ago and have built several AI SaaS applications. I have a master's degree in computer science and love Python! I'm currently focusing on NLP applications, especially open source models like LLaMA and Bloom. I enjoy challenges and working independently. I hope my repositories can give you new ideas and new help. Thank you, world
+Hello, world, I'm Sunny and I'm a senior Electronic & Robotic engineer! Originally a IOT, Drone and Robot, I started learning AI and ML 5 years ago and have built several AI solutions for robotic. I have a master's degree in computer science and love C++! I enjoy challenges and working independently. I hope my repositories can give you new ideas and new help. Thank you, world
 
-* 🖥️  See my portfolio at [several AI SaaS applications](http://getimg.ai)
-* 🧠  I'm learning Django
+* 🧠  I'm learning Machine learning
 * ⚡  I'm football fan and I love Leo Messi and FCB! Thanks
 
 ### Skills
